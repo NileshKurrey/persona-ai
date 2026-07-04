@@ -345,10 +345,7 @@ export default function ChatApp() {
             </h1>
           </div>
 
-          <div className="flex items-center gap-3 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 text-sm text-slate-300 shadow-2xl shadow-black/20">
-            <span className="h-2.5 w-2.5 rounded-full bg-emerald-400 shadow-[0_0_0_5px_rgba(52,211,153,0.13)]" />
-            Express API connected
-          </div>
+          
         </header>
 
         <section className="grid min-h-0 flex-1 overflow-hidden rounded-[28px] border border-white/10 bg-[#121821]/90 shadow-2xl shadow-black/35 backdrop-blur-xl lg:grid-cols-[340px_minmax(0,1fr)]">
