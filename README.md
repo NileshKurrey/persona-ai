@@ -90,11 +90,10 @@ Returns:
 
 ## Deploying
 
-- **Backend:** any Node host (Render, Railway, Fly.io, a small VPS). Set
-  `GEMINI_API_KEY` and `CLIENT_ORIGIN` (your deployed frontend URL) as env
-  vars.
-- **Frontend:** Vercel is the easiest fit for Next.js. Set
-  `NEXT_PUBLIC_API_URL` to your deployed backend URL.
+Deployment instructions and Vercel-specific setup live in [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
+
+For local env templates, use [frontend/.env.local.example](frontend/.env.local.example) and
+[frontend/.env.production.example](frontend/.env.production.example).
 
 ## Docs
 
