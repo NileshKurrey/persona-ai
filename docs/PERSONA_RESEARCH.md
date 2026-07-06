@@ -17,7 +17,7 @@ How the Hitesh Choudhary and Piyush Garg personas were collected and prepared.
 - X/Twitter: @piyushgarg_dev
 - Udemy instructor bio
 
-Because live YouTube transcript scraping needs a quota-limited API key and this is a 5-day assignment window, the persona was built from **publicly written material** (channel descriptions, bios, tweets, course intros, and third-party write-ups analyzing their styles) rather than a large scraped transcript corpus. This is documented here transparently as a scope decision — see "Limitations" below.
+
 
 ## 2. Traits extracted per person
 

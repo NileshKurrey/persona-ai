@@ -26,7 +26,7 @@ unrelated questions.
 
 ## 3. Chain-of-thought (internal only, not exposed)
 
-Class 3 (`03_cot.js`) modeled CoT as a visible `INIT → THINK → ANALYSE →
+On (`03_cot.js`) modeled CoT as a visible `INIT → THINK → ANALYSE →
 OUTPUT` JSON pipeline. For a persona bot, printing those labels would break
 character immediately, so this project uses a **silent CoT instruction**
 instead:
